@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Jordan Smith",
+    "label": "Marketing Specialist",
+    "email": "jordan.smith@email.com",
+    "phone": "(123) 456-7890",
+    "location": {
+      "city": "Austin",
+      "region": "TX",
+      "country": "USA"
+    },
+    "summary": "Marketing professional with 5+ years of experience in content strategy, digital campaigns, and SEO. Transitioning into product marketing with a focus on growth and analytics.",
+    "linkedin": "https://www.linkedin.com/in/jordansmith",
+    "website": "https://jordansmithportfolio.com"
+  },
+  "work": [
+    {
+      "company": "BrightWave Marketing",
+      "position": "Content Marketing Manager",
+      "startDate": "2021-03-01",
+      "endDate": "2024-06-01",
+      "summary": "Led content marketing strategy for B2B SaaS clients and increased qualified lead volume by 27%.",
+      "highlights": [
+        "Created and optimized over 50 SEO-driven landing pages",
+        "Launched a lead magnet campaign that captured 3,000+ new leads",
+        "Managed a team of 3 writers and freelancers"
+      ]
+    },
+    {
+      "company": "PixelReach Media",
+      "position": "Digital Marketing Coordinator",
+      "startDate": "2018-07-01",
+      "endDate": "2021-02-01",
+      "summary": "Managed paid ad campaigns and tracked performance analytics across social platforms.",
+      "highlights": [
+        "Reduced CPC by 18% through strategic A/B testing",
+        "Increased email open rates by 22% through segmentation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas at Austin",
+      "area": "Communications",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2014-08-01",
+      "endDate": "2018-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Marketing",
+      "keywords": [
+        "SEO",
+        "Content Strategy",
+        "Google Analytics",
+        "Email Marketing",
+        "HubSpot",
+        "Figma",
+        "Copywriting"
+      ]
+    },
+    {
+      "name": "Career Change Focus",
+      "keywords": [
+        "Product Marketing",
+        "User Research",
+        "Growth Strategy"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Google Ads Certification",
+      "issuer": "Google",
+      "date": "2023-04-01"
+    },
+    {
+      "title"
